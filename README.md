@@ -3,7 +3,7 @@
 O principal objetivo do Feign Client é criar clientes HTTP de forma simples, sem precisar escrever muito código fonte. Normalmente um cliente HTTP é usado em chamadas para outros microsserviços quando trabalhamos com orquestração ou quando chamamos API’s, endereços externos ou integração com outros sistemas que usam o protocolo HTTP.
 No nosso exemplo, vamos mostrar como utilizar o Feign Client para chamar a API Oficial da Marvel.
 
-![](https://img.youtube.com/vi/Vlmjw5nifOo/0.jpg)
+[![](https://img.youtube.com/vi/12KKwA_Y_Ak/0.jpg)](https://www.youtube.com/watch?v=Vlmjw5nifOo)
 
 # Video do YouTube:
 
